@@ -3,10 +3,12 @@ const express = require('express')
 const router = express.Router()
 
 const gameController = require('../controllers/gameController')
+const esp32Controller = require('../controllers/esp32Controller')
 const analyticsController = require('../controllers/analyticsController')
 
 // Game routes
-router.post('/start', gameController.startGame)
+router.get('/esp32/status', esp32Controller.getESP32Status)
+router.post('/start', esp32Controller.requireESP32Connection, gameController.startGame)
 router.get('/history', gameController.getGameHistory)
 
 // Analytics routes

@@ -1,11 +1,1153 @@
 {
   "games": [
     {
-      "sessionId": "945b612e-8060-45c4-8b8c-ba398d489c8c",
+      "sessionId": "d09648ed-d83e-4cc2-a6e1-5560bcdc69ea",
+      "playerName": "Erick",
+      "status": "completed",
+      "startTime": "2026-11-23T11:55:46.951Z",
+      "endTime": "2026-11-23T11:56:46.974Z",
+      "duration": 60,
+      "timeRemaining": 0,
+      "score": 490,
+      "hits": 13,
+      "cupHits": {
+        "1": 2,
+        "2": 2,
+        "3": 2,
+        "4": 3,
+        "5": 3,
+        "6": 1
+      },
+      "hitHistory": [
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T11:55:49.981Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T11:55:53.858Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:55:56.984Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T11:56:00.135Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T11:56:02.940Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T11:56:05.646Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T11:56:08.020Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T11:56:09.874Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T11:56:12.494Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T11:56:14.670Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:56:21.096Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T11:56:23.644Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T11:56:25.383Z"
+        }
+      ]
+    },
+    {
+      "sessionId": "e6a3ba09-2320-4858-bdfd-b3908110680a",
       "playerName": "Daniel",
       "status": "completed",
-      "startTime": "2026-11-12T08:34:35.743Z",
-      "endTime": "2026-11-12T08:36:35.343Z",
+      "startTime": "2026-11-23T11:57:30.814Z",
+      "endTime": "2026-11-23T11:58:30.851Z",
+      "duration": 60,
+      "timeRemaining": 0,
+      "score": 2050,
+      "hits": 57,
+      "cupHits": {
+        "1": 21,
+        "2": 4,
+        "3": 8,
+        "4": 8,
+        "5": 8,
+        "6": 8
+      },
+      "hitHistory": [
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T11:57:36.139Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T11:57:36.815Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T11:57:37.293Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T11:57:37.998Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T11:57:42.979Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:57:43.500Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:57:44.977Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T11:57:45.991Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T11:57:46.723Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:57:47.334Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:57:48.099Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:57:48.995Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T11:57:50.004Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T11:57:51.650Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T11:57:54.910Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T11:57:55.398Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T11:57:55.828Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T11:57:55.871Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T11:57:56.248Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T11:57:56.858Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:57:58.306Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T11:57:59.775Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T11:58:00.518Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T11:58:01.116Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T11:58:02.104Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T11:58:03.290Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T11:58:04.218Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:04.385Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T11:58:05.412Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T11:58:07.342Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T11:58:07.807Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T11:58:08.747Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T11:58:09.349Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T11:58:09.945Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T11:58:10.353Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T11:58:11.649Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T11:58:12.172Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T11:58:13.190Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:15.483Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T11:58:16.381Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T11:58:16.979Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:17.484Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T11:58:18.956Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T11:58:20.199Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:21.020Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:21.426Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:22.749Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:23.155Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:23.671Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:24.148Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:24.996Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:25.409Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:26.360Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:26.919Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:27.355Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T11:58:28.015Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T11:58:30.619Z"
+        }
+      ]
+    },
+    {
+      "sessionId": "8249e4e8-49d2-4893-9e5a-88ad6bfb5c32",
+      "playerName": "Auvry",
+      "status": "completed",
+      "startTime": "2026-11-23T12:12:02.589Z",
+      "endTime": "2026-11-23T12:13:02.616Z",
+      "duration": 60,
+      "timeRemaining": 0,
+      "score": 2190,
+      "hits": 55,
+      "cupHits": {
+        "1": 9,
+        "2": 8,
+        "3": 10,
+        "4": 11,
+        "5": 10,
+        "6": 7
+      },
+      "hitHistory": [
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:12:08.144Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:12:09.806Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:12:10.283Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:12:14.326Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:12:15.102Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:12:15.953Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:12:23.027Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:12:25.561Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:12:26.182Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:12:27.019Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:12:27.690Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:12:28.284Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:12:28.820Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:12:29.385Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:12:29.892Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:12:30.423Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:12:30.894Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:12:31.395Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:12:31.893Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:12:32.372Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:12:32.826Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:12:33.397Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:12:33.817Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:12:34.380Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:12:34.999Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:12:35.524Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:12:35.998Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:12:36.674Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:12:37.316Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:12:38.204Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:12:39.421Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:12:39.893Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:12:40.415Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:12:41.126Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:12:41.588Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:12:42.096Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:12:42.612Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:12:43.244Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:12:43.891Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:12:44.320Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:12:44.807Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:12:45.454Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:12:46.553Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:12:47.177Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:12:48.513Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:12:49.067Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:12:49.610Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:12:50.119Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:12:50.734Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:12:54.288Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:12:54.763Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:12:55.216Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:12:55.617Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:12:56.058Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:12:57.673Z"
+        }
+      ]
+    },
+    {
+      "sessionId": "42144e7d-5309-4879-a486-d48aa0bab2b1",
+      "playerName": "auvry",
+      "status": "completed",
+      "startTime": "2026-11-23T12:14:12.075Z",
+      "endTime": "2026-11-23T12:15:12.108Z",
+      "duration": 60,
+      "timeRemaining": 0,
+      "score": 1250,
+      "hits": 30,
+      "cupHits": {
+        "1": 5,
+        "2": 5,
+        "3": 5,
+        "4": 5,
+        "5": 5,
+        "6": 5
+      },
+      "hitHistory": [
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:14:14.291Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:14:14.866Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:14:15.377Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:14:15.807Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:14:16.274Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:14:19.212Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:14:26.562Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:14:28.608Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:14:30.086Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:14:31.231Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:14:33.139Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:14:34.503Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:14:35.171Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:14:35.779Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:14:37.446Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:14:39.608Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:14:40.892Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:14:42.157Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:14:43.966Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:14:45.178Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:14:47.271Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:14:49.248Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:14:50.831Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:14:52.293Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:14:53.874Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:14:55.220Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:14:56.449Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:14:57.849Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:14:59.212Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:15:00.815Z"
+        }
+      ]
+    },
+    {
+      "sessionId": "699e9c31-b6d1-4382-b1aa-e93e0dd7b435",
+      "playerName": "John paul",
+      "status": "completed",
+      "startTime": "2026-11-23T12:16:37.996Z",
+      "endTime": "2026-11-23T12:17:38.027Z",
+      "duration": 60,
+      "timeRemaining": 0,
+      "score": 390,
+      "hits": 7,
+      "cupHits": {
+        "1": 0,
+        "2": 1,
+        "3": 1,
+        "4": 1,
+        "5": 2,
+        "6": 2
+      },
+      "hitHistory": [
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:16:44.281Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:16:44.675Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:16:45.250Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:16:45.680Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:16:46.067Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:17:11.107Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:17:34.579Z"
+        }
+      ]
+    },
+    {
+      "sessionId": "0a298dcb-43c3-4e37-9ce2-bd2a75fccd70",
+      "playerName": "Pau",
+      "status": "completed",
+      "startTime": "2026-11-23T12:19:11.902Z",
+      "endTime": "2026-11-23T12:20:11.941Z",
+      "duration": 60,
+      "timeRemaining": 0,
+      "score": 280,
+      "hits": 7,
+      "cupHits": {
+        "1": 1,
+        "2": 1,
+        "3": 2,
+        "4": 1,
+        "5": 1,
+        "6": 1
+      },
+      "hitHistory": [
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:19:14.571Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:19:15.304Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:19:15.974Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:19:16.767Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:19:17.444Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:19:18.156Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:19:18.740Z"
+        }
+      ]
+    },
+    {
+      "sessionId": "9e60c387-e0ef-43fb-85bd-17035a96edbc",
+      "playerName": "AE",
+      "status": "completed",
+      "startTime": "2026-11-23T12:37:05.699Z",
+      "endTime": "2026-11-23T12:38:05.726Z",
+      "duration": 60,
+      "timeRemaining": 0,
+      "score": 1340,
+      "hits": 30,
+      "cupHits": {
+        "1": 1,
+        "2": 4,
+        "3": 10,
+        "4": 5,
+        "5": 5,
+        "6": 5
+      },
+      "hitHistory": [
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:37:11.962Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:37:15.490Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:37:16.443Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:37:17.420Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:37:18.794Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:37:20.912Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:37:22.290Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:37:23.360Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:37:24.350Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T12:37:25.362Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:37:27.019Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:37:28.204Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T12:37:29.832Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:37:29.971Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T12:37:31.504Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:37:33.456Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:37:34.452Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:37:35.652Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:37:36.527Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T12:37:37.330Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:37:39.860Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:37:41.285Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:37:42.438Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:37:43.406Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T12:37:44.925Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:37:46.472Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:37:47.427Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:37:48.555Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:37:49.990Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T12:37:51.327Z"
+        }
+      ]
+    },
+    {
+      "sessionId": "9cbd390e-cd17-40af-b336-e64d352ce64f",
+      "playerName": "Guest",
+      "status": "completed",
+      "startTime": "2026-11-23T14:56:10.321Z",
+      "endTime": "2026-11-23T15:04:44.977Z",
       "duration": 60,
       "timeRemaining": 0,
       "score": 0,
@@ -21,970 +1163,604 @@
       "hitHistory": []
     },
     {
-      "sessionId": "f1b90d01-f3db-4eee-b559-bbabb614c47a",
-      "playerName": "Daniel Test 2",
+      "sessionId": "3b9bce12-f695-4cad-a7fd-9263ec28cd5d",
+      "playerName": "Guest",
       "status": "completed",
-      "startTime": "2026-11-12T08:38:20.921Z",
-      "endTime": "2026-11-12T16:43:40.833Z",
+      "startTime": "2026-11-23T15:04:44.983Z",
+      "endTime": "2026-11-23T15:07:44.453Z",
       "duration": 60,
       "timeRemaining": 0,
-      "score": 110,
-      "hits": 2,
+      "score": 0,
+      "hits": 0,
       "cupHits": {
-        "1": 1,
+        "1": 0,
         "2": 0,
         "3": 0,
         "4": 0,
         "5": 0,
+        "6": 0
+      },
+      "hitHistory": []
+    },
+    {
+      "sessionId": "8cf31be8-3073-4bf6-86bd-80adbb54483a",
+      "playerName": "Guest",
+      "status": "completed",
+      "startTime": "2026-11-23T15:12:22.114Z",
+      "endTime": "2026-11-23T15:13:22.319Z",
+      "duration": 60,
+      "timeRemaining": 0,
+      "score": 730,
+      "hits": 21,
+      "cupHits": {
+        "1": 2,
+        "2": 2,
+        "3": 2,
+        "4": 14,
+        "5": 1,
+        "6": 0
+      },
+      "hitHistory": [
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T15:12:36.326Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T15:12:36.937Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T15:12:38.801Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T15:12:39.234Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T15:12:42.747Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T15:12:43.680Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T15:12:46.670Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T15:12:50.127Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T15:12:50.909Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T15:12:51.520Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T15:12:52.200Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T15:12:52.923Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T15:12:53.911Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T15:12:54.907Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T15:12:55.674Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T15:12:56.583Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T15:12:57.616Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T15:12:58.343Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T15:12:59.107Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T15:12:59.564Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T15:13:00.529Z"
+        }
+      ]
+    },
+    {
+      "sessionId": "93195b70-a259-4260-b68d-83a6d3d8b317",
+      "playerName": "DAN",
+      "status": "completed",
+      "startTime": "2026-11-23T16:36:34.654Z",
+      "endTime": "2026-11-23T16:37:34.698Z",
+      "duration": 60,
+      "timeRemaining": 0,
+      "score": 520,
+      "hits": 26,
+      "cupHits": {
+        "1": 18,
+        "2": 2,
+        "3": 2,
+        "4": 1,
+        "5": 2,
         "6": 1
       },
       "hitHistory": [
         {
           "cupNumber": 1,
           "points": 10,
-          "timestamp": "2026-11-12T08:38:20.944Z"
+          "timestamp": "2026-11-23T16:36:35.062Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:36:35.466Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:36:35.880Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:36:36.333Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:36:36.742Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:36:37.172Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:36:37.572Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:36:37.978Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:36:38.377Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:36:38.777Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:36:39.182Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:36:39.582Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:36:39.985Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T16:37:21.910Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T16:37:22.229Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T16:37:23.231Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:37:24.606Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:37:25.622Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:37:26.277Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:37:28.506Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T16:37:29.187Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T16:37:29.819Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T16:37:30.839Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T16:37:31.754Z"
+        },
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T16:37:32.385Z"
         },
         {
           "cupNumber": 6,
           "points": 100,
-          "timestamp": "2026-11-12T08:38:20.951Z"
+          "timestamp": "2026-11-23T16:37:33.120Z"
         }
       ]
     },
     {
-      "sessionId": "f8c35ac3-706d-4d7c-b47d-704ca25d44d6",
-      "playerName": "Auvs",
+      "sessionId": "e3c44181-019b-41c0-9905-4fccc3e11439",
+      "playerName": "TEST 1",
       "status": "completed",
-      "startTime": "2026-11-12T08:46:25.811Z",
-      "endTime": "2026-11-12T08:47:25.960Z",
+      "startTime": "2026-11-23T16:44:53.320Z",
+      "endTime": "2026-11-23T16:45:53.386Z",
       "duration": 60,
       "timeRemaining": 0,
-      "score": 0,
-      "hits": 0,
+      "score": 180,
+      "hits": 10,
       "cupHits": {
-        "1": 0,
-        "2": 0,
+        "1": 2,
+        "2": 8,
         "3": 0,
         "4": 0,
         "5": 0,
         "6": 0
-      },
-      "hitHistory": []
-    },
-    {
-      "sessionId": "b06ea7e7-3cf2-4eb9-a7f2-d35e033a86b0",
-      "playerName": "Auvs",
-      "status": "completed",
-      "startTime": "2026-11-12T09:47:27.796Z",
-      "endTime": "2026-11-12T09:48:27.899Z",
-      "duration": 60,
-      "timeRemaining": 0,
-      "score": 0,
-      "hits": 0,
-      "cupHits": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0
-      },
-      "hitHistory": []
-    },
-    {
-      "sessionId": "804cebf7-c259-4820-938e-7e644ee0a6ff",
-      "playerName": "daniel",
-      "status": "completed",
-      "startTime": "2026-11-12T10:11:45.107Z",
-      "endTime": "2026-11-12T10:12:45.163Z",
-      "duration": 60,
-      "timeRemaining": 0,
-      "score": 0,
-      "hits": 0,
-      "cupHits": {
-        "1": 0,
-        "2": 0,
-        "3": 0,
-        "4": 0,
-        "5": 0,
-        "6": 0
-      },
-      "hitHistory": []
-    },
-    {
-      "sessionId": "e54d20e1-ed02-4ad1-b015-da6958619634",
-      "playerName": "jp",
-      "status": "completed",
-      "startTime": "2026-11-12T16:46:25.851Z",
-      "endTime": "2026-11-12T16:47:25.896Z",
-      "duration": 60,
-      "timeRemaining": 0,
-      "score": 3760,
-      "hits": 113,
-      "cupHits": {
-        "1": 24,
-        "2": 35,
-        "3": 17,
-        "4": 14,
-        "5": 11,
-        "6": 12
       },
       "hitHistory": [
         {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:46:28.608Z"
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T16:44:53.678Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T16:45:01.367Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T16:45:02.326Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T16:45:06.157Z"
+        },
+        {
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T16:45:11.097Z"
         },
         {
           "cupNumber": 1,
           "points": 10,
-          "timestamp": "2026-11-12T16:46:30.405Z"
+          "timestamp": "2026-11-23T16:45:11.456Z"
         },
         {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:46:32.663Z"
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T16:45:15.082Z"
         },
         {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:46:33.432Z"
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T16:45:15.484Z"
         },
         {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:46:33.515Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:46:33.546Z"
-        },
-        {
-          "cupNumber": 5,
-          "points": 50,
-          "timestamp": "2026-11-12T16:46:33.583Z"
+          "cupNumber": 2,
+          "points": 20,
+          "timestamp": "2026-11-23T16:45:51.363Z"
         },
         {
           "cupNumber": 1,
           "points": 10,
-          "timestamp": "2026-11-12T16:46:33.929Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:46:41.005Z"
-        },
-        {
-          "cupNumber": 5,
-          "points": 50,
-          "timestamp": "2026-11-12T16:46:41.121Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:46:41.154Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:46:41.200Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:41.481Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:46:42.991Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:46:43.010Z"
-        },
-        {
-          "cupNumber": 5,
-          "points": 50,
-          "timestamp": "2026-11-12T16:46:43.019Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:46:43.028Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:43.168Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:46:43.995Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:46:44.112Z"
-        },
-        {
-          "cupNumber": 5,
-          "points": 50,
-          "timestamp": "2026-11-12T16:46:44.128Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:46:44.182Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:44.264Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:46:44.552Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:46:45.798Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:45.822Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:46.409Z"
-        },
-        {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:46:46.813Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:46:46.830Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:46:46.846Z"
-        },
-        {
-          "cupNumber": 5,
-          "points": 50,
-          "timestamp": "2026-11-12T16:46:46.854Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:46.864Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:46:46.872Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:46:47.293Z"
-        },
-        {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:46:47.306Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:46:47.323Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:47.684Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:46:47.947Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:46:47.951Z"
-        },
-        {
-          "cupNumber": 5,
-          "points": 50,
-          "timestamp": "2026-11-12T16:46:47.970Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:46:47.982Z"
-        },
-        {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:46:47.988Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:46:51.840Z"
-        },
-        {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:46:51.849Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:51.890Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:52.575Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:46:52.583Z"
-        },
-        {
-          "cupNumber": 5,
-          "points": 50,
-          "timestamp": "2026-11-12T16:46:52.654Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:46:52.668Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:46:53.281Z"
-        },
-        {
-          "cupNumber": 5,
-          "points": 50,
-          "timestamp": "2026-11-12T16:46:53.567Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:46:53.665Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:53.690Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:55.239Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:46:55.268Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:56.043Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:46:56.056Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:46:56.167Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:46:56.179Z"
-        },
-        {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:46:56.198Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:56.457Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:56.985Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:46:56.993Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:46:57.021Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:46:57.028Z"
-        },
-        {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:46:57.035Z"
-        },
-        {
-          "cupNumber": 5,
-          "points": 50,
-          "timestamp": "2026-11-12T16:46:57.048Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:57.687Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:46:57.694Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:46:57.723Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:46:57.733Z"
-        },
-        {
-          "cupNumber": 5,
-          "points": 50,
-          "timestamp": "2026-11-12T16:46:57.749Z"
-        },
-        {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:46:57.774Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:46:58.402Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:46:58.424Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:46:58.447Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:46:58.452Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:09.598Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:10.101Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:47:11.169Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:47:11.190Z"
-        },
-        {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:47:11.199Z"
-        },
-        {
-          "cupNumber": 5,
-          "points": 50,
-          "timestamp": "2026-11-12T16:47:11.245Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:11.270Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:47:11.333Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:11.932Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:47:11.948Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:12.618Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:47:12.676Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:13.300Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:47:13.309Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:47:14.041Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:14.048Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:15.231Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:15.930Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:17.959Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:47:18.721Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:19.505Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:20.055Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:20.811Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:21.499Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:47:21.512Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:22.203Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:47:22.236Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:47:22.275Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:47:22.299Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:22.651Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:23.148Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:47:23.157Z"
-        },
-        {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:47:23.627Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:47:23.648Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:24.291Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:47:24.868Z"
+          "timestamp": "2026-11-23T16:45:51.519Z"
         }
       ]
     },
     {
-      "sessionId": "57abd82a-1a17-49be-a338-19c29533ceed",
-      "playerName": "dan",
+      "sessionId": "8f0d55fc-72ec-401a-8f4c-735b86e337c3",
+      "playerName": "Guest",
       "status": "completed",
-      "startTime": "2026-11-12T16:50:56.221Z",
-      "endTime": "2026-11-12T16:51:56.283Z",
+      "startTime": "2026-11-23T17:07:08.684Z",
+      "endTime": "2026-11-23T17:08:38.544Z",
       "duration": 60,
       "timeRemaining": 0,
-      "score": 1960,
-      "hits": 54,
+      "score": 540,
+      "hits": 14,
       "cupHits": {
-        "1": 11,
-        "2": 14,
-        "3": 9,
-        "4": 10,
+        "1": 6,
+        "2": 0,
+        "3": 0,
+        "4": 2,
+        "5": 4,
+        "6": 2
+      },
+      "hitHistory": [
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T17:07:09.083Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T17:07:09.683Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T17:07:10.654Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T17:07:11.252Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T17:07:11.966Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T17:07:12.499Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T17:07:13.358Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T17:07:13.894Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T17:07:14.997Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T17:07:15.624Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T17:07:34.370Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T17:07:35.083Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T17:07:35.946Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T17:07:37.262Z"
+        }
+      ]
+    },
+    {
+      "sessionId": "a091ab7b-62e9-4ffa-8714-8069c2cae5f5",
+      "playerName": "Guest",
+      "status": "completed",
+      "startTime": "2026-11-23T18:56:57.230Z",
+      "endTime": "2026-11-23T18:57:57.266Z",
+      "duration": 60,
+      "timeRemaining": 0,
+      "score": 120,
+      "hits": 6,
+      "cupHits": {
+        "1": 4,
+        "2": 0,
+        "3": 1,
+        "4": 0,
+        "5": 1,
+        "6": 0
+      },
+      "hitHistory": [
+        {
+          "cupNumber": 3,
+          "points": 30,
+          "timestamp": "2026-11-23T18:57:31.730Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T18:57:34.421Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T18:57:36.553Z"
+        },
+        {
+          "cupNumber": 5,
+          "points": 50,
+          "timestamp": "2026-11-23T18:57:41.816Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T18:57:44.626Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T18:57:48.274Z"
+        }
+      ]
+    },
+    {
+      "sessionId": "40781ec7-179e-45ea-a089-c1c945ecb649",
+      "playerName": "TST 2",
+      "status": "completed",
+      "startTime": "2026-11-23T18:58:27.177Z",
+      "endTime": "2026-11-23T18:59:27.213Z",
+      "duration": 60,
+      "timeRemaining": 0,
+      "score": 150,
+      "hits": 3,
+      "cupHits": {
+        "1": 1,
+        "2": 0,
+        "3": 0,
+        "4": 1,
+        "5": 0,
+        "6": 1
+      },
+      "hitHistory": [
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T18:58:42.182Z"
+        },
+        {
+          "cupNumber": 6,
+          "points": 100,
+          "timestamp": "2026-11-23T18:58:59.330Z"
+        },
+        {
+          "cupNumber": 1,
+          "points": 10,
+          "timestamp": "2026-11-23T18:59:03.749Z"
+        }
+      ]
+    },
+    {
+      "sessionId": "a48ee9e1-b7a4-4e22-88fd-a18735611263",
+      "playerName": "ALLEN KALBO",
+      "status": "completed",
+      "startTime": "2026-11-23T19:00:15.735Z",
+      "endTime": "2026-11-23T19:01:15.782Z",
+      "duration": 60,
+      "timeRemaining": 0,
+      "score": 480,
+      "hits": 7,
+      "cupHits": {
+        "1": 0,
+        "2": 0,
+        "3": 0,
+        "4": 2,
         "5": 2,
-        "6": 8
+        "6": 3
       },
       "hitHistory": [
         {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:50:59.168Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:51:02.085Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:51:03.016Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:51:04.120Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:51:04.663Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:51:05.495Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:51:06.707Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:51:07.779Z"
-        },
-        {
           "cupNumber": 4,
           "points": 40,
-          "timestamp": "2026-11-12T16:51:08.240Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:51:08.249Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:51:08.660Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:51:09.378Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:51:09.388Z"
-        },
-        {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:51:10.400Z"
-        },
-        {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:51:11.250Z"
-        },
-        {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:51:14.314Z"
-        },
-        {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:51:14.824Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:51:15.282Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:51:15.296Z"
-        },
-        {
-          "cupNumber": 6,
-          "points": 100,
-          "timestamp": "2026-11-12T16:51:15.306Z"
+          "timestamp": "2026-11-23T19:00:27.149Z"
         },
         {
           "cupNumber": 5,
           "points": 50,
-          "timestamp": "2026-11-12T16:51:15.366Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:51:15.883Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:51:15.895Z"
+          "timestamp": "2026-11-23T19:00:39.407Z"
         },
         {
           "cupNumber": 5,
           "points": 50,
-          "timestamp": "2026-11-12T16:51:15.964Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:51:23.154Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:51:24.770Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:51:26.100Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:51:27.434Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:51:29.261Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:51:30.121Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:51:32.579Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:51:33.946Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:51:36.756Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:51:38.502Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:51:38.527Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:51:39.085Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:51:39.547Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:51:40.786Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:51:42.024Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:51:45.006Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:51:46.564Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:51:48.297Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:51:49.640Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:51:50.428Z"
-        },
-        {
-          "cupNumber": 2,
-          "points": 20,
-          "timestamp": "2026-11-12T16:51:51.072Z"
-        },
-        {
-          "cupNumber": 1,
-          "points": 10,
-          "timestamp": "2026-11-12T16:51:52.209Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:51:53.102Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:51:53.539Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:51:53.546Z"
-        },
-        {
-          "cupNumber": 4,
-          "points": 40,
-          "timestamp": "2026-11-12T16:51:54.594Z"
-        },
-        {
-          "cupNumber": 3,
-          "points": 30,
-          "timestamp": "2026-11-12T16:51:54.628Z"
+          "timestamp": "2026-11-23T19:00:53.840Z"
         },
         {
           "cupNumber": 6,
           "points": 100,
-          "timestamp": "2026-11-12T16:51:55.179Z"
+          "timestamp": "2026-11-23T19:01:10.714Z"
+        },
+        {
+          "cupNumber": 4,
+          "points": 40,
+          "timestamp": "2026-11-23T19:01:12.419Z"
         },
         {
           "cupNumber": 6,
           "points": 100,
-          "timestamp": "2026-11-12T16:51:55.614Z"
+          "timestamp": "2026-11-23T19:01:12.892Z"
         },
         {
           "cupNumber": 6,
           "points": 100,
-          "timestamp": "2026-11-12T16:51:56.034Z"
+          "timestamp": "2026-11-23T19:01:13.549Z"
         }
       ]
     }
